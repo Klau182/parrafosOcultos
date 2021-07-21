@@ -1,0 +1,39 @@
+body {
+    background-image: linear-gradient(180deg, #005763 0, #00576a 5%, #005672 10%, #005578 15%, #00547e 20%, #005382 25%, #005286 30%, #005088 35%, #004d8a 40%, #004b8a 45%, #074889 50%, #2b4587 55%, #3e4184 60%, #4d3d7f 65%, #59397a 70%, #633574 75%, #6b316d 80%, #732e65 85%, #782a5e 90%, #7d2855 95%, #80264d 100%);
+}
+
+.titulo{
+    text-align: center;
+    color: white;
+    font-size: 44px;
+}
+
+#contenidos_1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+    color:white;
+}
+
+#contenidos_2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+    color:white;
+}
+
+#contenidos_3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+    color: white;
+}
+
+#enlace_1 {
+    color: white;
+}
+
+#enlace_2 {
+    color: white;
+}
+
+#enlace_3 {
+    color: white;
+}
